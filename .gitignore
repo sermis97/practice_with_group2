@@ -1,0 +1,23 @@
+# Default ignored files
+target/
+test-output/
+.idea/
+practice with alummni mentor.iml
+CreateAccount.mp4/
+CreateAccount.mp4
+.iml
+.DS_Store
+.idea
+.project
+.settings
+.classpath
+.vscode
+.java-version
+build/
+bin/
+.gradle
+gradle
+gradlew
+gradlew.
+dependency-reduced-pom.xml
+examples/zip-release/*.jargit
